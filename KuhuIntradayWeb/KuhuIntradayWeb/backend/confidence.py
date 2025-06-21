@@ -1,1 +1,0 @@
-# Confidence score calculation placeholder
